@@ -1,0 +1,2 @@
+longclaw==1.0.2
+stripe==2.61.0
